@@ -8,7 +8,9 @@ charset-normalizer==2.1.1
 colorama==0.4.6
 exceptiongroup==1.0.4
 h11==0.14.0
+hijri-converter==2.2.4
 idna==3.4
+jdatetime==4.1.0
 numpy==1.23.5
 outcome==1.2.0
 packaging==21.3
